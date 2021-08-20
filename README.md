@@ -18,5 +18,5 @@ Olá Mundo! Aqui quem fala é ela: Bárbara Morais
   ##
 
 - 🔭 Estou atualmente buscando uma vaga
-- 🌱 Dando meus primeiros passos em Python
+- 🌱 Dando meus primeiros passos em Python e SQL
 - 😄 Pronomes: Ela / Dela
