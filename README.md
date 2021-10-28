@@ -12,13 +12,15 @@ Hello World! It's me Bárbara!</h2>
  </div>
   
   ##
-  
+ 
   <h3>Tá, mas quem sou eu? / Who am I? </h3>
   🔭 Estou atualmente buscando uma vaga / I'm currently looking for an opportunity
   
   🌱 Dando meus primeiros passos em Python e SQL / Baby steps in Python and SQL
   
   😄 Pronomes: Ela - Dela / Pronoums: She - Her
+  
+   IBM Certified: Data Science
   
   <p><img alt="PlayStation Network" src="https://img.shields.io/badge/PSN%20-%230070D1.svg?&style=for-the-badge&logo=Playstation&logoColor=white"/> Viciada na serie Atelier / Addicted to Atelier' series</p>
   
