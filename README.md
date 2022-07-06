@@ -1,5 +1,5 @@
 <h2>Olá Mundo! Aqui quem fala é ela: Bárbara Morais 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+ | 
 Hello World! It's me, Bárbara!🏳️‍🌈</h2>
 
 <div align="center">
@@ -14,7 +14,7 @@ Hello World! It's me, Bárbara!🏳️‍🌈</h2>
   ##
  
   <h3>Tá, mas quem sou eu? / Who am I? </h3>
-  🔭 Estou atualmente buscando uma vaga / I'm currently looking for an opportunity
+  🔭 Trabalhando como Analista de Dados / Working as Data Analyst
   
   🌱 Dando meus primeiros passos em Python e SQL / Baby steps in Python and SQL
   
