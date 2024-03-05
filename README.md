@@ -15,9 +15,7 @@ Hello World! It's me, Bárbara!🏳️‍🌈</h2>
   ##
  
   <h3>Tá, mas quem sou eu? / Who am I? </h3>
-  🔭 Trabalhando como Analista de Dados / Working as Data Analyst
-  
-  🌱 Dando meus primeiros passos em Python e SQL / Baby steps in Python and SQL
+  🔭 Buscando emprego como Analista de Dados / Open to Data Analyst Positions
   
   😄 Pronomes: Ela - Dela / Pronoums: She - Her
   
